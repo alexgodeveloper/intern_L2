@@ -31,6 +31,8 @@ func main() {
 
 Ответ:
 ```
-...
+error
+
+Так как *main.customError.<nil> != <nil> <nil>
 
 ```
